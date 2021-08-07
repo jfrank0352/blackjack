@@ -1,6 +1,6 @@
 # blackjack
 
-DEPLOYMENT INSTUCTIONS
+DEPLOYMENT INSTUCTIONS:
 You have two options for deployment of the app. 
 
 OPTION 1:
@@ -26,13 +26,13 @@ Demo Account:
   Password : demo
 ```
 
-THE TEAM
+## THE TEAM
 
 We are a team of US Military Veterans who are Full Stack Software Engineers. We all met during a non-profit bootcamp for veterans and military spouses. We recently graduated and came together to work on this project. We were all on different timezone and currently located in the United States, Canada and Switzerland. This made our daily stand ups more challenging. However, our time in our bootcamp gave us a good base to work off of as we were remote during the whole cohort due to COVID. This allowed us to easily work around each persons schedule and stay on track as a team. 
 
 Each person bio can found below:
 
-Andrew Austin
+### Andrew Austin
 
 Served 7 years in the United States Air Force as Vehicle Operator. After his Service he attended the University of North Texas and received a BA in International Studies concentrating in International Business and Economics and graduated CodePlatoon's Full Stack Software Engineering Bootcamp.
 
@@ -42,7 +42,7 @@ https://www.linkedin.com/in/andrew-d-austin/
 Github Profile:
 https://github.com/andrewaustin12
 
-Wilson Gauf
+### Wilson Gauf
 
 I served 9 years in the US Navy as Persian-Farsi Language Analyst and Aircrewmen. It took 9 years but my passion for software engineering got stoked and grew once starting and completing Code Platoon's Full Stack Software Engineering Bootcamp. Every day I find myself learning new things and questioning what I thought I knew, reading too much documentation and experimenting to try and apply what I encounter.
 
@@ -55,7 +55,7 @@ https://github.com/Wilgauf
 Personal Portfolio:
 https://wilsongauf.com/
 
-Joshua Franklin
+### Joshua Franklin
 
 I am an 8 year U.S. Marine Corps veteran turned Software Developer who enjoys learning new things and applying it in practical ways. After completing two combat deployments to Iraq and I was able to travel around the world as a Marine Security Guard at U.S. Emabssies aroudn the world. I was first introduced to coding through a minor in Computer Science while attending the American University of Paris, in France. After movinng to Canada, I took advantage of Code Platoon's FullStack developer bootcamp to expand my early interest in coding. Programming allows me to continue learning in dynamic environments while building practical solutions to problems.
 
