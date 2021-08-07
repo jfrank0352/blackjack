@@ -1,4 +1,4 @@
-# blackjack
+# Blackjack
 
 DEPLOYMENT INSTUCTIONS:
 You have two options for deployment of the app. 
@@ -36,36 +36,36 @@ Each person bio can found below:
 
 Served 7 years in the United States Air Force as Vehicle Operator. After his Service he attended the University of North Texas and received a BA in International Studies concentrating in International Business and Economics and graduated CodePlatoon's Full Stack Software Engineering Bootcamp.
 
-Linkedin Profile:
+- Linkedin Profile:
 https://www.linkedin.com/in/andrew-d-austin/
 
-Github Profile:
+- Github Profile:
 https://github.com/andrewaustin12
 
 ### Wilson Gauf
 
 I served 9 years in the US Navy as Persian-Farsi Language Analyst and Aircrewmen. It took 9 years but my passion for software engineering got stoked and grew once starting and completing Code Platoon's Full Stack Software Engineering Bootcamp. Every day I find myself learning new things and questioning what I thought I knew, reading too much documentation and experimenting to try and apply what I encounter.
 
-Linkedin Profile:
+- Linkedin Profile:
 https://www.linkedin.com/in/wilson-gauf/
 
-Github Profile:
+- Github Profile:
 https://github.com/Wilgauf
 
-Personal Portfolio:
+- Personal Portfolio:
 https://wilsongauf.com/
 
 ### Joshua Franklin
 
 I am an 8 year U.S. Marine Corps veteran turned Software Developer who enjoys learning new things and applying it in practical ways. After completing two combat deployments to Iraq and I was able to travel around the world as a Marine Security Guard at U.S. Emabssies aroudn the world. I was first introduced to coding through a minor in Computer Science while attending the American University of Paris, in France. After movinng to Canada, I took advantage of Code Platoon's FullStack developer bootcamp to expand my early interest in coding. Programming allows me to continue learning in dynamic environments while building practical solutions to problems.
 
-Linkedin Profile:
+- Linkedin Profile:
 https://www.linkedin.com/in/joshua-franklin0352/
 
-Github Profile:
+- Github Profile:
 https://github.com/jfrank0352
 
-DESIGN
+## DESIGN
 
 We started with a wire frame of our over all design to make sure we got a feel for the UX/UI. We made sure we had an overall agreement on it before we moved on to a full mockup. This was used as our initial guide to understand what functionality we wanted and where we needed to improve. As well as where we wanted to depoy everything within the app. 
 
